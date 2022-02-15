@@ -1,0 +1,4 @@
+Version Control dan Branch Management 
+1. Melakukan instalasi git dan membuat repository baru pada github serta mempelajari cara melakukan clone file repo ke laptop masing masing yang kemudian file ini dapat diedit di laptop masing masing tanpa mengubah file yang ada di repository github. Dan codingan yang sudah ditambahkan atau diedit dapat diupload ke github kembali dengan melakukan commit dan push melalui terminal. 
+2. Cara membuat branch dan merge 2 branch di repo melalui code editor masing masing. Pembuatan merge bertujuan agar main/master yang ada direpo tidak rusak saat menambah atau membuat fitur baru. Jika kodingan sudah benar maka code branch dapat dimerger ke branch main.
+3. Pembuatan branch yang baik dalam sebuah project besar
